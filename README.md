@@ -4,3 +4,10 @@
 
 This python package is prepared by Santhosh.
 
+Install
+
+`pip install git+ssh://git@github.com/skiailearn/preprocess_ski.git`
+
+Uninstall 
+
+`pip uninstall preprocess_ski`
