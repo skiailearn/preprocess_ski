@@ -5,7 +5,7 @@ with open("README.md", "r") as file:
 
 setuptools.setup(
 	name = 'preprocess_ski', #this should be unique
-	version = '0.0.1',
+	version = '0.0.2',
 	author = 'Santhosh I',
 	author_meail = 'skiailearn@gmail.com',
 	description = 'This is preprocessing package',
