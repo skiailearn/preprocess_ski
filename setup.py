@@ -13,9 +13,9 @@ setuptools.setup(
 	long_description_content_type = 'text/markdwon'
 	packages = setuptools.find_packages(),
 	classifiers = [
-	'Programming Lanugage' :: Python :: 3, 
-	'License' :: OSI Approved :: MIT License'
-	"Operating sysmte :: OS Independent"],
+	'Programming Lanugage :: Python :: 3', 
+	'License :: OSI Approved :: MIT License'
+	"Operating system :: OS Independent"],
 	python_requires = '>=3.5'
 
 	)
